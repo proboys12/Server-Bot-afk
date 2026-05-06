@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "StellarSMP-QvkN.aternos.me:21553",
+    "port": 21553,
     "version": "",
     "try-creative": false
   },
