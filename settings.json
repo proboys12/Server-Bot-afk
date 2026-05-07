@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Server Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "StellarSMP-QvkN.aternos.me:21553",
-    "port": 21553,
+    "ip": "Stellar-RVLA.aternos.me",
+    "port": 50937,
     "version": "",
     "try-creative": false
   },
@@ -30,11 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+      "messages":
     },
     "chat-log": true,
     "auto-reconnect": true,
