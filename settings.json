@@ -8,7 +8,7 @@
   "server": {
     "ip": "Stellar-RVLA.aternos.me",
     "port": 50937,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
